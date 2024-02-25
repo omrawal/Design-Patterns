@@ -29,7 +29,7 @@ class Penguin implements Bird {
     }
 }
 
-// it's break the principle of LSP. Penguin can not fly.
+// it breaks the LSP. Penguin can not fly.
 
 // Complies with Liskov Substitution Principle
 interface BirdSpecies {
