@@ -50,15 +50,15 @@ class ClassicPrinter implements Machine {
 
 // Complies with Interface Segregation Principle
 interface Printer {
-    public void print();
+    public void print_document();
 }
 
 interface Scanner {
-    public void scan();
+    public void scan_document();
 }
 
 interface FaxMachine {
-    public void fax();
+    public void fax_document();
 }
 
 class ModernPrinterMachine implements Printer, Scanner, FaxMachine {
