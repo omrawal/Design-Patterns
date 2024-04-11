@@ -1,26 +1,44 @@
 # Design-Patterns
-A comprehensive repository of Design Patterns 
+
+## [SOLID Design Patterns](https://github.com/omrawal/Design-Patterns/tree/main/1_SOLID_Design_Patterns)
+
+  ### 1. [Single Responsibility Principle](https://github.com/omrawal/Design-Patterns/tree/main/1_SOLID_Design_Patterns/1.01_Single_Responsibility_Principle)
+  A class should have one and only one responsibility.
+  
+  ### 2. [Open Close Principle](https://github.com/omrawal/Design-Patterns/tree/main/1_SOLID_Design_Patterns/1.02_Open_Close_Principle)
+  A class should be open for extension but closed for modification.
+  
+  ### 3. [Liskov's Substitution Principle](https://github.com/omrawal/Design-Patterns/tree/main/1_SOLID_Design_Patterns/1.03_Liskov_Substitution_Principle)
+  A child should be able to do everything that its parent class can do.
+  
+  ### 4. [Interface Segregation Principle](https://github.com/omrawal/Design-Patterns/tree/main/1_SOLID_Design_Patterns/1.04_Interface_Segregation_Principle)
+  Interfaces should not enforce the implementation of unnecessary methods.
+
+  ### 5. [Dependency Inversion Principle](https://github.com/omrawal/Design-Patterns/tree/main/1_SOLID_Design_Patterns/1.05_Dependency_Inversion_Principle)
+  High-level Modules should not depend on low-level modules. Both should depend on Abstraction. Abstraction should not depend on details.
+  There should be no restriction on details for performing any action.
+
 
 # Gamma Categorization for Design Patterns
 
-## 1. Creational Patterns
+## 2. [Creational Patterns](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns)
 
-  ### 1.1. Builder
-  Separates the construction of a complex object from its representation, allowing the same construction process to create various representations.
+  ### 2.1. [Builder](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns/2.01_Builder)
+  Allows the creation of an object piece by piece. This helps avoid lengthy parameters in the constructor.
   
-  ### 1.2. Factory Method
+  ### 2.2. Factory Method
   Defines an interface for creating objects, but allows subclasses to alter the type of objects that will be created.
   
-  ### 1.3. Abstract Factory
+  ### 2.3. Abstract Factory
   Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
-  ### 1.4. Prototype
+  ### 2.4. Prototype
   Creates new objects by cloning an existing object, which serves as a prototype for the new object to be created.
   
-  ### 1.5. Singleton
+  ### 2.5. Singleton
   Ensures that a class has only one instance and provides a global point of access to that instance.
 
-## 2. Structural Patterns
+## 3. Structural Patterns
 
   ### Adapter
   Allows incompatible interfaces to work together by converting the interface of one class into another interface that a client expects.
@@ -43,7 +61,7 @@ A comprehensive repository of Design Patterns
   ### Proxy
   Provides a surrogate or placeholder for another object to control access to it.
 
-## 3. Behavioral Patterns
+## 4. Behavioral Patterns
 
   ### Chain of Responsibility
   Allows multiple objects to handle a request without the sender needing to know which object will handle it, and the objects are linked in a chain.
@@ -72,8 +90,8 @@ A comprehensive repository of Design Patterns
   ### Strategy
   Defines a family of algorithms, encapsulates each one, and makes them interchangeable, allowing the algorithm to vary independently from the clients that use it.
 
-### Template Method
-Defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
-
-### Visitor
-Represents an operation to be performed on the elements of an object structure, allowing new operations to be added without modifying the structures of the elements themselves.
+  ### Template Method
+  Defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+  
+  ### Visitor
+  Represents an operation to be performed on the elements of an object structure, allowing new operations to be added without modifying the structures of the elements themselves.
