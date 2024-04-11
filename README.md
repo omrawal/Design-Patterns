@@ -21,7 +21,7 @@
 
 # Gamma Categorization for Design Patterns
 
-## 2. [Creational Patterns](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns)
+## 2. [Creational Patterns](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns) [Deals with Creation of Objects]
 
   ### 2.1. [Builder](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns/2.01_Builder)
   Allows the creation of an object piece by piece. This helps avoid lengthy parameters in the constructor.
@@ -38,7 +38,7 @@
   ### 2.5. Singleton
   Ensures that a class has only one instance and provides a global point of access to that instance.
 
-## 3. Structural Patterns
+## 3. [Structural Patterns]() [Deals with the structure of objects when they grow in size]
 
   ### Adapter
   Allows incompatible interfaces to work together by converting the interface of one class into another interface that a client expects.
@@ -61,7 +61,7 @@
   ### Proxy
   Provides a surrogate or placeholder for another object to control access to it.
 
-## 4. Behavioral Patterns
+## 4. [Behavioral Patterns]() [Deals with the interaction between the objects and their behaviour]
 
   ### Chain of Responsibility
   Allows multiple objects to handle a request without the sender needing to know which object will handle it, and the objects are linked in a chain.
