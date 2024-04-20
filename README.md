@@ -39,10 +39,10 @@
 
 ## 3. [Structural Patterns](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns) [Deals with the structure of objects when they grow in size]
 
-  ### 3.1. Adapter
+  ### 3.1. [Adapter](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.01_Adapter)
   Allows incompatible interfaces to work together by converting the interface of one class into another interface that a client expects.
   
-  ### 3.2. Bridge
+  ### 3.2. [Bridge](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.02_Bridge)
   Decouples an abstraction from its implementation, so that the two can vary independently.
   
   ### 3.3. Composite
