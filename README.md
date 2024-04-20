@@ -26,27 +26,26 @@
   ### 2.1. [Builder](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns/2.01_Builder)
   Allows the creation of an object piece by piece. This helps avoid lengthy parameters in the constructor.
   
-  ### 2.2. Factory Method
+  ### 2.2. [Factory Method](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns/2.02_Factory)
   Defines an interface for creating objects, but allows subclasses to alter the type of objects that will be created.
-  
-  ### 2.3. Abstract Factory
-  Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+   Abstract Factory
+    Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
-  ### 2.4. Prototype
+  ### 2.3. [Prototype](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns/2.03_Prototype)
   Creates new objects by cloning an existing object, which serves as a prototype for the new object to be created.
   
-  ### 2.5. Singleton
+  ### 2.4. [Singleton](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns/2.04_Singleton)
   Ensures that a class has only one instance and provides a global point of access to that instance.
 
-## 3. [Structural Patterns]() [Deals with the structure of objects when they grow in size]
+## 3. [Structural Patterns](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns) [Deals with the structure of objects when they grow in size]
 
-  ### Adapter
+  ### 3.1. Adapter
   Allows incompatible interfaces to work together by converting the interface of one class into another interface that a client expects.
   
-  ### Bridge
+  ### 3.2. Bridge
   Decouples an abstraction from its implementation, so that the two can vary independently.
   
-  ### Composite
+  ### 3.3. Composite
   Composes objects into tree structures to represent part-whole hierarchies, allowing clients to treat individual objects and compositions of objects uniformly.
   
   ### Decorator
