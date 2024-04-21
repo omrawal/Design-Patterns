@@ -54,10 +54,10 @@
   ### 3.5. [Facade](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.05_Facade)
   Provides a unified interface to a set of interfaces in a subsystem, simplifying the use of the subsystem for clients.
   
-  ### 3.6. [Flyweight](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.05_Flyweight)
+  ### 3.6. [Flyweight](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.06_Flyweight)
   Uses sharing to support large numbers of fine-grained objects efficiently, providing a way to use objects in large numbers when a simple repeated representation would use an unacceptable amount of memory.
   
-  ### 3.7. [Proxy]()
+  ### 3.7. [Proxy](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.07_Proxy)
   Provides a surrogate or placeholder for another object to control access to it.
 
 ## 4. [Behavioral Patterns]() [Deals with the interaction between the objects and their behaviour]
