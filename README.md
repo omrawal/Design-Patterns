@@ -45,19 +45,19 @@
   ### 3.2. [Bridge](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.02_Bridge)
   Decouples an abstraction from its implementation, so that the two can vary independently.
   
-  ### 3.3. Composite
+  ### 3.3. [Composite](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.03_Composite)
   Composes objects into tree structures to represent part-whole hierarchies, allowing clients to treat individual objects and compositions of objects uniformly.
   
-  ### Decorator
+  ### 3.4. [Decorator](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.04_Decorator)
   Attaches additional responsibilities to an object dynamically, providing a flexible alternative to subclassing for extending functionality.
   
-  ### Facade
+  ### 3.5. [Facade](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.05_Facade)
   Provides a unified interface to a set of interfaces in a subsystem, simplifying the use of the subsystem for clients.
   
-  ### Flyweight
+  ### 3.6. [Flyweight](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.05_Flyweight)
   Uses sharing to support large numbers of fine-grained objects efficiently, providing a way to use objects in large numbers when a simple repeated representation would use an unacceptable amount of memory.
   
-  ### Proxy
+  ### 3.7. [Proxy]()
   Provides a surrogate or placeholder for another object to control access to it.
 
 ## 4. [Behavioral Patterns]() [Deals with the interaction between the objects and their behaviour]
