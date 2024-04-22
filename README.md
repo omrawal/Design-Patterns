@@ -60,9 +60,9 @@
   ### 3.7. [Proxy](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.07_Proxy)
   Provides a surrogate or placeholder for another object to control access to it.
 
-## 4. [Behavioral Patterns]() [Deals with the interaction between the objects and their behaviour]
+## 4. [Behavioral Patterns](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns) [Deals with the interaction between the objects and their behaviour]
 
-  ### Chain of Responsibility
+  ### 4.1. [Chain of Responsibility](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.01_Chain_Of_Responsibility)
   Allows multiple objects to handle a request without the sender needing to know which object will handle it, and the objects are linked in a chain.
   
   ### Command
