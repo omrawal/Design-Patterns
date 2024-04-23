@@ -65,7 +65,7 @@
   ### 4.1. [Chain of Responsibility](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.01_Chain_Of_Responsibility)
   Allows multiple objects to handle a request without the sender needing to know which object will handle it, and the objects are linked in a chain.
   
-  ### Command
+  ### 4.2 [Command](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.02_Command)
   Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
   
   ### Interpreter
