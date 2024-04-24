@@ -65,13 +65,13 @@
   ### 4.1. [Chain of Responsibility](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.01_Chain_Of_Responsibility)
   Allows multiple objects to handle a request without the sender needing to know which object will handle it, and the objects are linked in a chain.
   
-  ### 4.2 [Command](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.02_Command)
+  ### 4.2. [Command](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.02_Command)
   Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
   
-  ### Interpreter
+  ### 4.3. [Interpreter](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.03_Interpreter)
   Interprets sentences in a language and represents them as abstract syntax trees, allowing for the execution of these sentences.
   
-  ### Iterator
+  ### 4.4. [Iterator](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.04_Iterator)
   Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
   
   ### Mediator
