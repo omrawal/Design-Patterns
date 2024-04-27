@@ -80,7 +80,7 @@
   ### 4.6. [Memento](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.05_Momento)
   Captures and externalizes an object's internal state so that the object can be restored to this state later, without violating encapsulation.
   
-  ### Observer
+  ### 4.7. [Observer](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.06_Observer)
   Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
   
   ### State
