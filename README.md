@@ -74,23 +74,23 @@
   ### 4.4. [Iterator](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.04_Iterator)
   Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
   
-  ### 4.5. [Mediator](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.04_Mediator)
+  ### 4.5. [Mediator](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.05_Mediator)
   Defines an object that encapsulates how a set of objects interact, promoting loose coupling by keeping objects from referring to each other explicitly.
   
-  ### 4.6. [Memento](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.05_Momento)
+  ### 4.6. [Memento](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.06_Momento)
   Captures and externalizes an object's internal state so that the object can be restored to this state later, without violating encapsulation.
   
-  ### 4.7. [Observer](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.06_Observer)
+  ### 4.7. [Observer](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.07_Observer)
   Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
   
-  ### State
+  ### 4.8. [State](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.08_State)
   Allows an object to alter its behavior when its internal state changes, wrapping the state-specific behavior in separate classes and delegating the behavior to these classes.
   
-  ### Strategy
+  ### 4.9. [Strategy]()
   Defines a family of algorithms, encapsulates each one, and makes them interchangeable, allowing the algorithm to vary independently from the clients that use it.
 
-  ### Template Method
+  ### 4.10. [Template Method]()
   Defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
   
-  ### Visitor
+  ### 4.11. [Visitor]()
   Represents an operation to be performed on the elements of an object structure, allowing new operations to be added without modifying the structures of the elements themselves.
