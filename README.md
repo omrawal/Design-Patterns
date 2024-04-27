@@ -74,7 +74,7 @@
   ### 4.4. [Iterator](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.04_Iterator)
   Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
   
-  ### Mediator
+  ### 4.5. [Mediator](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.04_Mediator)
   Defines an object that encapsulates how a set of objects interact, promoting loose coupling by keeping objects from referring to each other explicitly.
   
   ### Memento
