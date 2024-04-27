@@ -86,11 +86,11 @@
   ### 4.8. [State](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.08_State)
   Allows an object to alter its behavior when its internal state changes, wrapping the state-specific behavior in separate classes and delegating the behavior to these classes.
   
-  ### 4.9. [Strategy]()
+  ### 4.9. [Strategy](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.09_Strategy)
   Defines a family of algorithms, encapsulates each one, and makes them interchangeable, allowing the algorithm to vary independently from the clients that use it.
 
-  ### 4.10. [Template Method]()
+  ### 4.10. [Template Method](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.10_Template_Method)
   Defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
   
-  ### 4.11. [Visitor]()
+  ### 4.11. [Visitor](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.11_Visitor)
   Represents an operation to be performed on the elements of an object structure, allowing new operations to be added without modifying the structures of the elements themselves.
