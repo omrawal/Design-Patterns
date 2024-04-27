@@ -77,7 +77,7 @@
   ### 4.5. [Mediator](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.04_Mediator)
   Defines an object that encapsulates how a set of objects interact, promoting loose coupling by keeping objects from referring to each other explicitly.
   
-  ### Memento
+  ### 4.6. [Memento](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.05_Momento)
   Captures and externalizes an object's internal state so that the object can be restored to this state later, without violating encapsulation.
   
   ### Observer
