@@ -21,7 +21,7 @@
 
 # Gamma Categorization for Design Patterns
 
-## 2. [Creational Patterns](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns) [Deals with Creation of Objects]
+## 2. [Creational Patterns](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns) [Handles Creation of Objects]
 
   ### 2.1. [Builder](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns/2.01_Builder)
   Allows the creation of an object piece by piece. This helps avoid lengthy parameters in the constructor.
