@@ -37,7 +37,7 @@
   ### 2.4. [Singleton](https://github.com/omrawal/Design-Patterns/tree/main/2_Creational_Design_Patterns/2.04_Singleton)
   Ensures that a class has only one instance and provides a global point of access to that instance.
 
-## 3. [Structural Patterns](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns) [Deals with the structure of objects when they grow in size]
+## 3. [Structural Patterns](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns) [Handles the structure of objects when they grow in size]
 
   ### 3.1. [Adapter](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.01_Adapter)
   Allows incompatible interfaces to work together by converting the interface of one class into another interface that a client expects.
@@ -60,7 +60,7 @@
   ### 3.7. [Proxy](https://github.com/omrawal/Design-Patterns/tree/main/3_Structural_Design_Patterns/3.07_Proxy)
   Provides a surrogate or placeholder for another object to control access to it.
 
-## 4. [Behavioral Patterns](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns) [Deals with the interaction between the objects and their behaviour]
+## 4. [Behavioral Patterns](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns) [Handles the interaction between the objects and their behaviour]
 
   ### 4.1. [Chain of Responsibility](https://github.com/omrawal/Design-Patterns/tree/main/4_Behavioral_Design_Patterns/4.01_Chain_Of_Responsibility)
   Allows multiple objects to handle a request without the sender needing to know which object will handle it, and the objects are linked in a chain.
